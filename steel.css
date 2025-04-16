@@ -1382,7 +1382,7 @@ footer{
         font-size: 13px;
     }
       .Wires video{
-        height: 80vh;
+        height: 60vh;
      }
 }
 @media(max-width:420px){
