@@ -1381,6 +1381,9 @@ footer{
     .left-side p{
         font-size: 13px;
     }
+      .Wires video{
+        height: 80vh;
+     }
 }
 @media(max-width:420px){
     .left-side button{
